@@ -1,2 +1,8 @@
 # pixijs-webpack-typescript
-Pixi.js with webpack and typescript
+
+Main dependencies:
+
+Application Server: Node
+Compiler: TypeScript
+Bundler: Webpack
+Pixi.js: Pixi.js
